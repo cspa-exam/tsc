@@ -21,7 +21,7 @@ Milestone: Determine any changes to exam classes, via voting.
 ## Weeks 4-5 (January 20 - February 2)
 **Topic Coverage**
 
-Once the exam classes have been determined, we need to determine what [topics](./docs/schema/Topic.md) should be covered.  This should be informed by the exam class's assessment goal and target audience.
+Once the exam classes have been determined, we need to determine what [topics](./schema/Topic.md) should be covered.  This should be informed by the exam class's assessment goal and target audience.
 
 If applicable, we may break down into subgroups -- one per exam class.  Members can participate in multiple subgroups.
 
@@ -30,13 +30,13 @@ Milestone: Determine the list of topics that should be covered for each exam cla
 ## Week 6+ (February 3 - March 31)
 **Compiling Questions**
 
-Once the topic coverage is determined, search the existing question bank for any suitable questions, and write new [questions](./docs/schema/Question.md).  Questions should be tagged with the proper topics and difficulty level.  Once sufficient questions are created, put them together into an [exam](./docs/schema/Exam.md).
+Once the topic coverage is determined, search the existing question bank for any suitable questions, and write new [questions](./schema/Question.md).  Questions should be tagged with the proper topics and difficulty level.  Once sufficient questions are created, put them together into an [exam](./schema/Exam.md).
 
 If CSPA's exam platform does not support certain question types, languages, or environments, new features can be requested.  Respective examples: multi-part questions that increase in difficulty, Java support, and virtual machine/EC2 instance access for each test taker.
 
 TODO: CSPA will open up exam compilation abilities to the question CMS soon.  This will allow TSC members to create new draft exams with the correct set of questions.
 
-Milestone: A new draft [Exam](./docs/schema/Exam.md) should be ready to go.
+Milestone: A new draft [Exam](./schema/Exam.md) should be ready to go.
 
 ## All Weeks
 **Scoring Algorithm**
