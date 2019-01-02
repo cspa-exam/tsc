@@ -29,7 +29,7 @@ For more details, refer to the [CSPA Governance and Operating Guidelines](./docs
 
 ## Compensation
 
-TSC members serve on a voluntary basis.  There is no direct individual monetary benefit.  Instead, inreturn for your service:
+TSC members serve on a voluntary basis.  There is no direct individual monetary benefit.  Instead, in return for your service:
 
 - You will be officially recognized as a CSPA Technical Steering Committee Member
 - You will be part of an exclusive community of software engineers who want to fix the technical interview process. You'll get to network with past, present, and future committee members.
