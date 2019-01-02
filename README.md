@@ -12,6 +12,8 @@ TSC is composed of 25 representatives from:
 - **Industry.** Software engineer veterans who have tons of experience hiring as well as a specific area of technical expertise. (15 seats)
 - **Open source.** Creators of new technologies -- languages, frameworks, methodologies, etc., and the contributors who maintain them. (5 seats)
 
+View the [current members](./members).
+
 ## Commitment & Responsibilities
 
 We expect a minimum commitment of 2 hours a month (via Slack).

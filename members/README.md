@@ -61,6 +61,8 @@ Co-founder, Fullstack Academy
 
 ### INDUSTRY SEATS (20)
 
+Note: due to additional interest, we have added 5 more seats for a total of 20 this first term.
+
 **Mohammad Almalkawi**  
 https://www.linkedin.com/in/almalkawi/  
 Technical lead at a leading crypto startup, previously at Twitter, Quip, Microsoft and Google. UIUC alum.  
