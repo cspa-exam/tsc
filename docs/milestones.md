@@ -1,4 +1,4 @@
-# Milestones Per Term
+# Term Schedule and Milestones
 
 In order to release a new version every three months, this approximate schedule is proposed:
 

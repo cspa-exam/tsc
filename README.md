@@ -27,7 +27,7 @@ As a TSC member, you are expected to:
 
 **3-month release cycle**: At the end of each quarter, we want to release a new improved version of CSPA. This may include exam questions, topic coverage, format, and scoring algorithm
 
-For more details, refer to the [CSPA Governance and Operating Guidelines](./docs/governance.md)
+For more details, refer to the [Term Schedule and Milestones](./docs/milestones.md) and [CSPA Governance and Operating Guidelines](./docs/governance.md)
 
 ## Compensation
 
