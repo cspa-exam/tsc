@@ -19,7 +19,7 @@ https://cepa.stanford.edu/ben-domingue/
 
 **Frédéric Harper**  
 https://www.linkedin.com/in/fredericharper/  
-Senior Developer Advocate at npm  
+Senior Developer Advocate @ npm  
 
 **Tracy Hinds**  
 https://www.linkedin.com/in/tracyhinds/  
@@ -35,17 +35,17 @@ Apache Hadoop PMC Member, Apache Hive PMC Member, Senior Staff Engineer @ Uber
 
 **Yuan Tang**  
 https://www.linkedin.com/in/terrytangyuan/  
-Top contributor and committer of TensorFlow, XGBoost and Apache MXNet, Senior Software Engineer at Ant Financial  
+Top contributor and committer of TensorFlow, XGBoost and Apache MXNet, Senior Software Engineer @ Ant Financial  
 
 ### EDUCATION SEATS (5)
 
 **Jeffrey Fiddler**  
 https://www.linkedin.com/in/jfiddler/  
-Senior Manager of Curriculum at AppAcademy  
+Senior Manager of Curriculum @ AppAcademy  
 
 **Bob Ippolito**  
 https://www.linkedin.com/in/bobippolito/  
-Board member at Mission Bit. Previously Co-founder & CTO at Fig, Pieceable, and Mochi Media; iOS Engineer at Facebook  
+Board member @ Mission Bit. Previously Co-founder & CTO @ Fig, Pieceable, and Mochi Media; iOS Engineer @ Facebook  
 
 **Ben Nelson**  
 https://www.linkedin.com/in/sunjieming/  
@@ -53,7 +53,7 @@ Co-founder, Lambda School
 
 **Naomi Sorrell**  
 https://www.linkedin.com/in/naomi-sorrell-a26389133/  
-Sr. Manager of Curriculum and Experience at Holberton School  
+Sr. Manager of Curriculum and Experience @ Holberton School  
 
 **David Yang**  
 https://www.linkedin.com/in/davidgyang/  
@@ -65,7 +65,7 @@ Note: due to additional interest, we have added 5 more seats for a total of 20 t
 
 **Mohammad Almalkawi**  
 https://www.linkedin.com/in/almalkawi/  
-Technical lead at a leading crypto startup, previously at Twitter, Quip, Microsoft and Google. UIUC alum.  
+Technical lead at a leading crypto startup, previously @ Twitter, Quip, Microsoft and Google. UIUC alum.  
 *Specialties: identity, blockchain, distributed systems, operating systems and mobile development*  
 
 **Laurent Benchimol**  
@@ -104,12 +104,12 @@ Senior Software Engineer @ Uber, Co-founder & CTO @ Digitalsite
 
 **Brandon Ooi**  
 https://www.linkedin.com/in/brandonooi/  
-CTO @ Sharespace, previously CTO at Rune and Crunchyroll  
+CTO @ Sharespace, previously CTO @ Rune and Crunchyroll  
 *Specialties: architecture & infrastructure, software engineering, scalability & reliability, networking, databases*  
 
 **Andy Pang**  
 https://www.linkedin.com/in/andy-pang-6912a04/  
-Engineer @ Superlinear, previously Dir. of Engineering at Riverbed, Jut  
+Engineer @ Superlinear, previously Dir. of Engineering @ Riverbed, Jut  
 *Specialties: backend, node*  
 
 **Vahed Qazvinian**  
@@ -119,7 +119,7 @@ Co-founder & CTO @ Lawyaw, previously 3+ years on Google Search Team
 
 **Brandon Richey**  
 https://www.linkedin.com/in/brandon-richey-b513372b/  
-Engineering Manager @ Greenhouse, previously Dir. of Engineering at Teladoc Health  
+Engineering Manager @ Greenhouse, previously Dir. of Engineering @ Teladoc Health  
 *Specialties: systems design & architecture, Elixir & Phoenix framework, Ruby (Rails & Sinatra), Javascript (React, Vue, Node), game development*  
 
 **Memo Salas**  
@@ -138,7 +138,7 @@ Senior Software Engineer @ Tesla Autopilot
 
 **Bhavik Shah**  
 https://www.linkedin.com/in/bbbshah/  
-Senior Software Engineer @ CrossInstall, previously at Crunchyroll and Adknowledge
+Senior Software Engineer @ CrossInstall, previously @ Crunchyroll and Adknowledge
 *Specialties: backend web, infrastructure, php*  
 
 **Sunil Shah**  
@@ -158,5 +158,5 @@ Senior Software Engineer II @ Akamai
 
 **Annie Zhou**  
 https://www.linkedin.com/in/anniezhoum/  
-Engineering Manager @ Square, previously at Lumos Lab, Jobvite, Dropbox, and Amazon  
+Engineering Manager @ Square, previously @ Lumos Lab, Jobvite, Dropbox, and Amazon  
 *Specialties: fullstack, platforms & APIs, payments, compliance, & lending, MySQL, iOS, Ruby, Angular*  
