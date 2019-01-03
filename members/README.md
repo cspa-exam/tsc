@@ -138,7 +138,7 @@ Senior Software Engineer @ Tesla Autopilot
 
 **Bhavik Shah**  
 https://www.linkedin.com/in/bbbshah/  
-Senior Software Engineer @ CrossInstall, previously @ Crunchyroll and Adknowledge
+Senior Software Engineer @ CrossInstall, previously @ Crunchyroll and Adknowledge  
 *Specialties: backend web, infrastructure, php*  
 
 **Sunil Shah**  
