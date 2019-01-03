@@ -19,7 +19,7 @@ https://cepa.stanford.edu/ben-domingue/
 
 **Frédéric Harper**  
 https://www.linkedin.com/in/fredericharper/  
-Senior Developer Advocate @ npm  
+Senior Developer Advocate @ npm, previously Mozilla & Microsoft, Apress published author and public speaker
 
 **Tracy Hinds**  
 https://www.linkedin.com/in/tracyhinds/  
