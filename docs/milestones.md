@@ -7,7 +7,7 @@ In order to release a new version every three months, this approximate schedule 
 
 Member introductions and onboarding.  Familiarize with current CSPA offering -- current exam formats and content, CMS tools and systems, and current challenges.
 
-## Weeks 2-3 (January 6 - February 19)
+## Weeks 2-3 (January 6 - January 19)
 **Exam Classes and Formats**
 
 Discuss if the current [exam classes](./schema/ExamClass.md) are suitable for the industry.  Should we focus on a single exam class?  Or break down individual subject-based tests?  Is the duration and types of questions the right ones?  What about topic coverage?
