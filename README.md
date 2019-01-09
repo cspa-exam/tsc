@@ -1,6 +1,6 @@
 # CSPA Technical Steering Committee
 
-The **CSPA Technical Steering Committee (TSC)** is responsible for CSPA exam format, content, and future direction.
+The **CSPA Technical Steering Committee (TSC)** is responsible for [CSPA](https://cspa.io) exam format, content, and future direction.
 
 Its mission is to create the best possible assessment of software engineers -- one that is useful, up-to-date, and unbiased -- and bridges the gap between education and industry.
 
