@@ -31,6 +31,8 @@ Our Vision: To increase the number of women of color in the digital space by emp
 ## Donations by month
 
 ### January 2019
+Mission Bit 
+https://www.missionbit.com/ 
 
 ### February 2019
 
